@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/MSProduit/pom.xml" />
         <option value="$PROJECT_DIR$/MSGateway/pom.xml" />
         <option value="$PROJECT_DIR$/discovery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/MSStudent/pom.xml" />
+        <option value="$PROJECT_DIR$/MSClasse/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />

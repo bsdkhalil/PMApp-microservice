@@ -8,9 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MSStock" />
-        <module name="MSProduit" />
         <module name="gateway" />
         <module name="discovery-service" />
+        <module name="MSProduit" />
       </profile>
     </annotationProcessing>
   </component>
